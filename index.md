@@ -1,10 +1,25 @@
-## Welcome to GitHub Pages
+## Yang GUO
+#### Ph.D. Candidate
 
-You can use the [editor on GitHub](https://github.com/yangguomq/yangguomq.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
+I am currently a PhD candidate at Department of Computing, Macquarie University, supervised by Professor Jian Yang. I obtained M.E. from Tsinghua University in 2016 and B.E. from North China Electric Power University in 2013. Before I started my PhD,  I worked as a Hardware Architecture Engineerer at Huawei.
 
-### Markdown
+### Publications
+Google Scholar
+Conferences
+Yang Guo, Weiliang Zhao , Jian Yang, Zizhu Zhang, Jia Wu and Tarique Anwar. "FDA-VeD: A Future-Demand-Aware Vehicle Dispatching Service." IEEE INTERNATIONAL CONFERENCE ON SERVICES COMPUTING (SCC) 2020. [Link]
+Journals
+Yang Guo, Zhixiu Hao, and Chao Wan. "Tribological Characteristics of Polyvinylpyrrolidone (PVP) as a Lubrication Additive for Artificial Knee Joint." Tribology International 93 (2016): 214-219. [Link]
+Patents
+Bangshi Yin, Jianhong Luo, Shenghui Cao, Dong Ma, Wenping Guo, Yang Guo, Structure of Electronic Device and Electronic Device, PCT/CN2017/106156, 2017 [Link]
+Jianhong Luo, Bangshi Yin, Yang Guo, Fingerprint Identification Device and Terminal Device, PCT/CN2018/081224 , 2018 [Link]
+Bangshi Yin, Xiulan Liu, Jianhong Luo, Yang Guo,  Printed Circuit Board Structure and Electronic Device,  PCT/CN2017/088292, 2017 [Link]
+Wenping Guo, Bangshi Yin, Jianhong Luo, Yang Guo, Metallic Shell of Mobile Device and Preparation Method Thereof, and Mobile Device, PCT/CN2017/078156, 2017 [Link]
+Wenping Guo, Jianhong Luo, Dong Ma, Yang Guo, Method for Manufacturing Housing, and Housing and Terminal with U-shaped Antenna, PCT/CN2017/086209, 2017 [Link]
+Jianhong Luo, Wenping Guo, Yang Guo, Kangle Xue, Method for Machining Blind Hole for Composite Plate, Composite Plate, And Housing, PCT/CN2017/084946, 2017 [Link]
+Bangshi Yin, Jianhong Luo, Wenping Guo, Yang Guo, Machining Tool and Method for Machining Micro-slot Antennas Using Same, PCT/CN2017/080916, 2017 [Link]
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
