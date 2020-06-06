@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Publications"
+---
+
 ## [Google Scholar](https://scholar.google.com/citations?user=BnbauT4AAAAJ&hl=en&authuser=1)
 
 ## Papers
