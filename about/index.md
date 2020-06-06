@@ -14,14 +14,22 @@ During my master study, I was interested in biotribology of medical implant devi
 
 
 ## Services
+
 - Reviewer: [IEEE ICDM 2019](http://icdm2019.bigke.org)
+
 - Reviewer: [IJCNN 2020](https://wcci2020.org)
 
+
 ## Awards & Honors
+
 - 1st Runner Up - Department of Computing Three Minute Thesis (3MT®) Competition Winners, Macquarie Universtiy, 2019
+
 - [First Prize](http://hearinghub.edu.au/about-us/news/hackathon-hearing-hub-ideas/) - Australian Hearing Hub Hackathon (Speech understanding contest using electroencephalogram (EEG) data), 2018
+
 - FUTURE STAR, Huawei, 2016
+
 - Second Prize in Interdisciplinary Contest in Modeling (ICM), 2012
+
 - Second Prize in China Undergraduate Mathematical Contest in Modeling (CUMCM), 2011
 
 
