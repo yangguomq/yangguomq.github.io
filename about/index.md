@@ -1,5 +1,5 @@
 ## About Me
-I am currently a PhD candidate at Department of Computing, Macquarie University, supervised by Professor [Jian Yang](http://web.science.mq.edu.au/~jian/) and Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/). I obtained M.E. from [Tsinghua University](https://www.tsinghua.edu.cn) in 2016 and B.E. from North China Electric Power University(https://english.ncepu.edu.cn) in 2013. Before I started my PhD,  I worked as a Hardware Architecture Engineerer at Huawei.
+I am currently a PhD candidate at Department of Computing, Macquarie University, supervised by Professor [Jian Yang](http://web.science.mq.edu.au/~jian/) and Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/). I obtained M.E. from [Tsinghua University](https://www.tsinghua.edu.cn) in 2016 and B.E. from [North China Electric Power University](https://english.ncepu.edu.cn) in 2013. Before I started my PhD,  I worked as a Hardware Architecture Engineerer at Huawei.
 
 ## Research Interests
 My current interest focus on intelligent transportation system:
