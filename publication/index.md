@@ -1,5 +1,5 @@
-Publications
-Google Scholar
+# Publications
+## [Google Scholar](https://scholar.google.com/citations?user=BnbauT4AAAAJ&hl=en&authuser=1)
 Conferences
 Yang Guo, Weiliang Zhao , Jian Yang, Zizhu Zhang, Jia Wu and Tarique Anwar. "FDA-VeD: A Future-Demand-Aware Vehicle Dispatching Service." IEEE INTERNATIONAL CONFERENCE ON SERVICES COMPUTING (SCC) 2020. [Link]
 Journals
