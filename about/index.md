@@ -3,9 +3,13 @@ I am currently a PhD candidate at Department of Computing, Macquarie University,
 
 ## Research Interests
 My current interest focus on intelligent transportation system:
+
 - Vehicles Dispatching Optimization
+
 - Spatial-temporal Data Mining
+
 - Travel Demand Prediction
+
 During my master study, I was interested in biotribology of medical implant device (e.g. Total Knee Replacement).
 
 ## Contact
