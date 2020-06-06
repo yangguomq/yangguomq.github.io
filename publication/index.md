@@ -20,4 +20,3 @@
 - Jianhong Luo, Wenping Guo, Yang Guo, Kangle Xue, Method for Machining Blind Hole for Composite Plate, Composite Plate, And Housing, PCT/CN2017/084946, 2017 [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018137297&recNum=7&office=&queryString=IN%3A%28guo+yang+luo+jianhong%29&prevFilter=&sortOption=Pub+Date+Desc&maxRec=9)
 
 - Bangshi Yin, Jianhong Luo, Wenping Guo, Yang Guo, Machining Tool and Method for Machining Micro-slot Antennas Using Same, PCT/CN2017/080916, 2017 [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018137291&recNum=6&office=&queryString=IN%3A%28guo+yang+luo+jianhong%29&prevFilter=&sortOption=Pub+Date+Desc&maxRec=9)
-
