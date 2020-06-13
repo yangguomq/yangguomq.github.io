@@ -12,9 +12,8 @@ For each clustering methods, there are three things to kind in mind:
 
 - Description from scikit-learn document: The k-means algorithm divides a set of *N* samples *X* in to *K* disjoint clusters *C*, each described by the mean  <img src="https://render.githubusercontent.com/render/math?math=u_j"> of the samples in the cluster. The means are commonly called the ccluster "centriods"; note that they are not, in genereal, points from *X*, although they live in the same space.
 
-- **The clustering objective**: minimize the **inertia** or **within-cluster sum-of-squares**: 
-
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle\sum_{i=0}^n \displaystyle\min_{u_j \in C}(||x_i-u_j||^2)">
+- **The clustering objective**: 
+minimize the **inertia** or **within-cluster sum-of-squares**: <img src="https://render.githubusercontent.com/render/math?math=\displaystyle\sum_{i=0}^n \displaystyle\min_{u_j \in C}(||x_i-u_j||^2)">
 
 - Inputs: samples *X*, the number of clusters *k*
 - Outputs: cluster of each sample
