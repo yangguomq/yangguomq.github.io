@@ -35,6 +35,7 @@ minimize the **inertia** or **within-cluster sum-of-squares**: <img src="https:/
 
 References:
 - [Scikit-learn document-Clustering-K-Means](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+- MacQueen, J. (1967, June). [Some methods for classification and analysis of multivariate observations](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=07EDF90CB90A2BA3AEB24B6B52CA9DC9?doi=10.1.1.308.8619&rep=rep1&type=pdf). In Proceedings of the fifth Berkeley symposium on mathematical statistics and probability (Vol. 1, No. 14, pp. 281-297).
 - Arthur, David, and Sergei Vassilvitskii. ["k-means++ the advantages of careful seeding."](https://dl.acm.org/doi/pdf/10.5555/1283383.1283494) Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms. 2007.
 - Sculley, David. ["Web-scale k-means clustering."](https://dl.acm.org/doi/pdf/10.1145/1772690.1772862) Proceedings of the 19th international conference on World wide web. 2010.
 
@@ -44,6 +45,7 @@ References:
 
 References:
 - Frey, Brendan J., and Delbert Dueck. ["Clustering by passing messages between data points."](https://science.sciencemag.org/content/315/5814/972) science 315.5814 (2007): 972-976.
+
 
 # Mean-shift
 
