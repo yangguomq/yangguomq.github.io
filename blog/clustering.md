@@ -20,7 +20,10 @@ minimize the **inertia** or **within-cluster sum-of-squares**: <img src="https:/
 
 ## k-means++
 
-## MiniBatchKMeans
+## Mini-Batch K-Means
+
+<img src="./figures/Mini_batch_kmeans.png"
+      height="400">
 
 
 References:
