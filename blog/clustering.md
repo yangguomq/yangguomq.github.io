@@ -18,7 +18,14 @@ minimize the **inertia** or **within-cluster sum-of-squares**: <img src="https:/
 - Inputs: samples *X*, the number of clusters *k*
 - Outputs: cluster of each sample
 
+## Standard k-means
+<img src="./figures/k-means.png">
+
 ## k-means++
+
+
+<img src="./figures/k-means++.png"
+      height="400">
 
 ## Mini-Batch K-Means
 
@@ -29,6 +36,7 @@ minimize the **inertia** or **within-cluster sum-of-squares**: <img src="https:/
 References:
 - [Scikit-learn document-Clustering-K-Means](https://scikit-learn.org/stable/modules/clustering.html#k-means)
 - Arthur, David, and Sergei Vassilvitskii. ["k-means++ the advantages of careful seeding."](https://dl.acm.org/doi/pdf/10.5555/1283383.1283494) Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms. 2007.
+- Sculley, David. ["Web-scale k-means clustering."](https://dl.acm.org/doi/pdf/10.1145/1772690.1772862) Proceedings of the 19th international conference on World wide web. 2010.
 
 # Mean-shift
 
