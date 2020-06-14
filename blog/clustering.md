@@ -43,6 +43,17 @@ References:
 
 - High level description: Affinity propagation measures the similarity between pairs of data points. Real-valued messages are exchanged between data points until a high-quality set of exemplars and corresponding clusters gradually emerges.
 
+There are two kinds of message to transfer: "responsibility"  <img src="https://render.githubusercontent.com/render/math?math=r(i,k)"> and “availability” <img src="https://render.githubusercontent.com/render/math?math=a(i,k)">.
+
+"responsibility"  <img src="https://render.githubusercontent.com/render/math?math=r(i,k)"> sent from data point i to candidate exemplar point k, reflects the accumulated evidence for how well-suited point k is to serve as the exemplar for point i, taking into account other potential exemplars for point i.
+
+“availability” <img src="https://render.githubusercontent.com/render/math?math=a(i,k)"> sent from candidate exemplar point k to point i, reflects the accumulated evidence for how appropriate it would be for point i to choose point k as its exemplar, taking into account the support from other points that point k should be an exemplar.
+
+To begin with, the availabilities are initialized to zero: a(i,k) = 0. Then, 
+
+ <img src="https://render.githubusercontent.com/render/math?math=r(i,k) \leftarrow s(i,k) - \displaystyle \max_{k' \text{s.t.}\, k' \neq k}">
+
+
 References:
 - Frey, Brendan J., and Delbert Dueck. ["Clustering by passing messages between data points."](https://science.sciencemag.org/content/315/5814/972) science 315.5814 (2007): 972-976.
 
