@@ -19,18 +19,18 @@ minimize the **inertia** or **within-cluster sum-of-squares**: <img src="https:/
 - Outputs: cluster of each sample
 
 ## Standard k-means
-<img src="./figures/k-means.png">
+<img src="./figures/k-means.png" width='800'>
 
 ## k-means++
 
 
 <img src="./figures/k-means++.png"
-      height="400">
+      width='800'>
 
 ## Mini-Batch K-Means
 
 <img src="./figures/Mini_batch_kmeans.png"
-      height="400">
+      width='400'>
 
 
 References:
@@ -49,9 +49,8 @@ There are two kinds of message to transfer: "responsibility"  <img src="https://
 
 “availability” <img src="https://render.githubusercontent.com/render/math?math=a(i,k)"> sent from candidate exemplar point k to point i, reflects the accumulated evidence for how appropriate it would be for point i to choose point k as its exemplar, taking into account the support from other points that point k should be an exemplar.
 
-To begin with, the availabilities are initialized to zero: a(i,k) = 0. Then, 
-
- <img src="https://render.githubusercontent.com/render/math?math=r(i,k) \leftarrow s(i,k) - \displaystyle \max_{k' \text{s.t.}\, k' \neq k}">
+<img src="./figures/affinity propagation.PNG"
+      width='600'>
 
 
 References:
