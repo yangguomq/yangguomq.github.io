@@ -52,7 +52,7 @@ There are two kinds of message to transfer: "responsibility"  <img src="https://
 The algorithm is described as follows:
 - To begin with, the availibities are initialized to zero: a(i,k)=0
 - <img src="https://render.githubusercontent.com/render/math?math=r(i,k) \gets  s(i,k) - max \{a(i, k') + s(i, k')\} for \forall k' \neq k"> 
-- <img src="https://render.githubusercontent.com/render/math?math=a(i,k) \gets  s(i,k) - min \{0, r(k, k) + \displaystyle\sum_{i'\, \text{s.t.}\, i' \notin \{i,k\}} \max\{0, r(i',k)\}\} "> 
+- <img src="https://render.githubusercontent.com/render/math?math=a(i,k) \gets s(i,k)-min\{0, r(k, k)+\sum_{i'\, \text{s.t.}\, i' \notin \{i,k\}} \max\{0, r(i',k)\}\} "> 
 - The “self-availability” a(k,k) is updated differently: <img src="https://render.githubusercontent.com/render/math?math=a(k,k) \gets  \displaystyle\sum_{i' \, \text{s.t.}\, i' \neq k} \max\{0, r(i',k)\}\}"> 
 
 References:
