@@ -49,9 +49,11 @@ There are two kinds of message to transfer: "responsibility"  <img src="https://
 
 “availability” <img src="https://render.githubusercontent.com/render/math?math=a(i,k)"> sent from candidate exemplar point k to point i, reflects the accumulated evidence for how appropriate it would be for point i to choose point k as its exemplar, taking into account the support from other points that point k should be an exemplar.
 
-<img src="./figures/affinity propagation.PNG"
-      width='600'>
-
+The algorithm is described as follows:
+- To begin with, the availibities are initialized to zero: a(i,k)=0
+- <img src="https://render.githubusercontent.com/render/math?math=r(i,k) \gets  s(i,k) - max \{a(i, k') + s(i, k')\} for \forall k' \neq k"> 
+- <img src="https://render.githubusercontent.com/render/math?math=a(i,k) \gets  s(i,k) - min \{0, r(k, k) + \displaystyle\sum_{i'\, \text{s.t.}\, i' \notin \{i,k\}} \max\{0, r(i',k)\}\} "> 
+- The “self-availability” a(k,k) is updated differently: <img src="https://render.githubusercontent.com/render/math?math=a(k,k) \gets  \displaystyle\sum_{i' \, \text{s.t.}\, i' \neq k} \max\{0, r(i',k)\}\}"> 
 
 References:
 - Frey, Brendan J., and Delbert Dueck. ["Clustering by passing messages between data points."](https://science.sciencemag.org/content/315/5814/972) science 315.5814 (2007): 972-976.
