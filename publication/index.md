@@ -7,7 +7,7 @@ title: "Publications"
 
 ## Papers
 
-- **Yang Guo**, Weiliang Zhao , Jian Yang, Zizhu Zhang, Jia Wu and Tarique Anwar. FDA-VeD: A Future-Demand-Aware Vehicle Dispatching Service. *IEEE INTERNATIONAL CONFERENCE ON SERVICES COMPUTING (SCC)* 2020. [Link](../files/FDA-VeD_SCC_2020_Camera_Ready.pdf) [Bibtex](../files/FDA-VeD.bib) [Slide](../files/SCC_REG_45_13_Guo.pdf)
+- **Yang Guo**, Weiliang Zhao , Jian Yang, Zizhu Zhang, Jia Wu and Tarique Anwar. FDA-VeD: A Future-Demand-Aware Vehicle Dispatching Service. *IEEE INTERNATIONAL CONFERENCE ON SERVICES COMPUTING (SCC)* 2020. [Link](../files/FDA-VeD_SCC_2020_Camera_Ready.pdf) [Bibtex](../files/FDA-VeD.bib) [Slides](../files/SCC_REG_45_13_Guo.pdf)
 
 - **Yang Guo**, Zhixiu Hao, and Chao Wan. Tribological Characteristics of Polyvinylpyrrolidone (PVP) as a Lubrication Additive for Artificial Knee Joint. *Tribology International* 93 (2016): 214-219. (IF=3.517, Q1) [Link](https://doi.org/10.1016/j.triboint.2015.08.043) [Bibtex](../files/Tri-PVP.bib)
 
