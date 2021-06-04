@@ -7,7 +7,7 @@ title: "Publications"
 
 ## Papers
 
-- **Yang Guo**, Tarique Anwar, Jian Yang and Jia Wu. dFDA-VeD: A Dynamic Future Demand Aware Vehicle Dispatching System. *EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous)* 2020. [Link](https://doi.org/10.1145/3448891.3448912)
+- **Yang Guo**, Tarique Anwar, Jian Yang and Jia Wu. dFDA-VeD: A Dynamic Future Demand Aware Vehicle Dispatching System. *EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous)* 2020. [Link](../files/dFDA-VeD A Dynamic Future Demand Aware Vehicle Dispatching System.pdf)
 
 - **Yang Guo**, Weiliang Zhao , Jian Yang, Zizhu Zhang, Jia Wu and Tarique Anwar. FDA-VeD: A Future-Demand-Aware Vehicle Dispatching Service. *IEEE INTERNATIONAL CONFERENCE ON SERVICES COMPUTING (SCC)* 2020. [Link](https://conferences.computer.org/servicespub/pdfs/SCC2020-6PAvrY57CwjKQITACOPvZJ/878900a345/878900a345.pdf) [Bibtex](../files/FDA-VeD.bib) [Slides](../files/SCC_REG_45_13_Guo.pdf)
 
